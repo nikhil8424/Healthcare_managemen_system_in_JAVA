@@ -1,6 +1,6 @@
 # Healthcare Management System in Java
 
-## Repository Structure
+## File Structure
 
 ### Root Directory
 
